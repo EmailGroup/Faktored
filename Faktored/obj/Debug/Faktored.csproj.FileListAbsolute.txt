@@ -1,0 +1,8 @@
+D:\Development\Projects\Faktored\Faktored\bin\Debug\Faktored.exe.config
+D:\Development\Projects\Faktored\Faktored\bin\Debug\Faktored.exe
+D:\Development\Projects\Faktored\Faktored\bin\Debug\Faktored.pdb
+D:\Development\Projects\Faktored\Faktored\obj\Debug\Faktored.csprojResolveAssemblyReference.cache
+D:\Development\Projects\Faktored\Faktored\obj\Debug\Faktored.exe
+D:\Development\Projects\Faktored\Faktored\obj\Debug\Faktored.pdb
+D:\Development\Projects\Faktored\Faktored\bin\Debug\Newtonsoft.Json.dll
+D:\Development\Projects\Faktored\Faktored\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,10 @@
+D:\Development\Projects\Faktored\FaktoredUnitTest\bin\Debug\FaktoredUnitTest.dll
+D:\Development\Projects\Faktored\FaktoredUnitTest\bin\Debug\FaktoredUnitTest.pdb
+D:\Development\Projects\Faktored\FaktoredUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Development\Projects\Faktored\FaktoredUnitTest\obj\Debug\FaktoredUnitTest.csprojResolveAssemblyReference.cache
+D:\Development\Projects\Faktored\FaktoredUnitTest\obj\Debug\FaktoredUnitTest.dll
+D:\Development\Projects\Faktored\FaktoredUnitTest\obj\Debug\FaktoredUnitTest.pdb
+D:\Development\Projects\Faktored\FaktoredUnitTest\bin\Debug\Newtonsoft.Json.dll
+D:\Development\Projects\Faktored\FaktoredUnitTest\bin\Debug\Newtonsoft.Json.xml
+D:\Development\Projects\Faktored\FaktoredUnitTest\bin\Debug\Faktored.exe
+D:\Development\Projects\Faktored\FaktoredUnitTest\bin\Debug\Faktored.pdb
